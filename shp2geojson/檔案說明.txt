@@ -1,0 +1,5 @@
+
+資料說明：
+表土酸鹼度為soil_ac_a；
+表土質地為soil_at_a；
+兩者的分類結果為attribute table中之category欄。
